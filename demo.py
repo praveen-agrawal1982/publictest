@@ -1,5 +1,5 @@
 print("Greetings")
-  
+print("hello")  
 import sys
 import os
 print(sys.argv[1])
